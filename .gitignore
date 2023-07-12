@@ -1,0 +1,8 @@
+.venv
+*.env
+*.key
+*.zip
+/config/JWT
+**/__pycache__/
+/vercel-serverless
+est_cache
